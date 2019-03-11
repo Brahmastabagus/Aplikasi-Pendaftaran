@@ -1,4 +1,4 @@
-# Aplikasi Perpustakan Dengan PHP dan MySQL 
+# Aplikasi Pendaftaran Dengan PHP dan MySQL 
 
 ## Introduction
 
